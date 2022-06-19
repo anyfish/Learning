@@ -1,0 +1,11 @@
+# Carpetas
+/Include/
+/Lib/
+/Scripts/
+
+# Archivos
+pyvenv.cfg
+KDDTrain+.arff
+
+# Extenciones
+.csv
