@@ -6,6 +6,4 @@
 # Archivos
 pyvenv.cfg
 KDDTrain+.arff
-
-# Extenciones
-.csv
+TotalFeatures-ISCXFlowMeter.csv
