@@ -2,6 +2,7 @@
 /Include/
 /Lib/
 /Scripts/
+/04_Dataset/
 
 # Archivos
 pyvenv.cfg
